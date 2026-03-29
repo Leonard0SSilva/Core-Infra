@@ -1,0 +1,17 @@
+{
+  "name": "com.studio.core-infra",
+  "version": "1.0.0",
+  "displayName": "Core Infrastructure",
+  "description": "Base interfaces and utilities shared across all modules. Provides service locator, base service contracts (IAdsService, IIAPService), and common utilities.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Studio",
+    "email": "s2leoj@gmail.com"
+  },
+  "keywords": [
+    "core",
+    "infrastructure",
+    "interfaces",
+    "services"
+  ]
+}
